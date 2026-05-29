@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productspdate",
+        "uuid": 49738770,
+        "checksum": "x7zuhj"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
